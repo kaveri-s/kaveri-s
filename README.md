@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-I'm a distributed systems developer currently in Austin, Texas, USA.
+I'm a backend developer specializing in distributed systems currently in Austin, Texas, USA.
 </p>
 
 <p align='center'>
@@ -22,12 +22,13 @@ I'm a distributed systems developer currently in Austin, Texas, USA.
 ### About Me
 
 - :octocat: Love working with:
-  - Distributed Systems Design
-  - PaaS Development
-  - Developer Productivity
+  - Distributed System Designs
+  - PaaS Development & Deployment
+  - Achieving Reliability and Fault tolerance
 - 🔥 Passionate about organization and optimization
-- 👀 Fascinated by biological systems, specifically the endocrine and nervous system
+- 👀 Fascinated by biological systems, specifically the nervous system
 - :school_satchel: Practice one bag travel & simple living
+- Currently reading Programming Pearls
 
 <img width="490" height="270" src="https://media.giphy.com/media/3o6nUUlx8V78opqJ4k/giphy.gif" align=right>
 
