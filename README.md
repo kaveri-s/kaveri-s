@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-I'm a distributed systems developer currently in Arizona, USA.
+I'm a distributed systems developer currently in Austin, Texas, USA.
 </p>
 
 <p align='center'>
