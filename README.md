@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-I'm a backend developer specializing in distributed systems currently in Austin, Texas, USA.
+I'm a backend developer specializing in distributed systems currently located in the Bay Area, California, USA.
 </p>
 
 <p align='center'>
